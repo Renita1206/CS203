@@ -8,5 +8,6 @@ Statistics for Data Science - 3rd Semester
 * Loan Data - Data Cleaning  
 * Height and Weight - Descriptive Statistics  
 * Flights   - Charts  
-* Exam Data - Charts
+* Exam Data - Charts  
+* Introduction to Numpy
 
